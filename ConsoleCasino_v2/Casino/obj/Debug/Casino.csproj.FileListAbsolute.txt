@@ -1,0 +1,5 @@
+E:\Telerik\ConsoleCasino\ConsoleCasino_v2\Casino\bin\Debug\Casino.exe
+E:\Telerik\ConsoleCasino\ConsoleCasino_v2\Casino\bin\Debug\Casino.pdb
+E:\Telerik\ConsoleCasino\ConsoleCasino_v2\Casino\obj\Debug\Casino.csprojResolveAssemblyReference.cache
+E:\Telerik\ConsoleCasino\ConsoleCasino_v2\Casino\obj\Debug\Casino.exe
+E:\Telerik\ConsoleCasino\ConsoleCasino_v2\Casino\obj\Debug\Casino.pdb

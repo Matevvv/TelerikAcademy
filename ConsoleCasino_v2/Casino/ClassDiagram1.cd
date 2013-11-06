@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Casino.GameManager" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAEAAAAAAAAAKFAAEAAAAAAAAAABAAkAAAEAAA=</HashCode>
+      <FileName>GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Casino.BlackJackDealer" Collapsed="true">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgEAAAAAgEAAIAAAAAAkAAgAAAAAABAAAAAAAA=</HashCode>
+      <FileName>BlackJackDealer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Casino.Card" Collapsed="true">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAABAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Casino.CardRank" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAggAAEEAAEAIAAAgEFBCAAAAggAAgAAEE=</HashCode>
+      <FileName>CardRank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Casino.CardsDeck" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAABAAAAAABA=</HashCode>
+      <FileName>CardsDeck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Casino.CardSuit" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAQAAAEAAAAEAAAABAAAAAEAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>CardSuit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Casino.Draw" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABFgDAACAIACBAAgAUMAAMEAAAADIgACAYAFAAKJA=</HashCode>
+      <FileName>Draw.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Casino.Menu" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAABAgAAAEAAAAAAAAIAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Casino.Program" Collapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Casino.Status" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Status.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Casino.BlackJackPlayer" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAEAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>BlackJackPlayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Casino.Player" Collapsed="true">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAUIAAAACAABAgAAAACAAQAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Casino.InvalidMoneyException">
+    <Position X="6.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InvalidMoneyException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Casino.Frame" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAIBAAAABAAAAAAAEAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Frame.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Casino.Point" Collapsed="true">
+    <Position X="15.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>Point.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Casino.Style" Collapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Style.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Casino.IDealBlackJack" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAgAAAIACAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDealBlackJack.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Casino.IPlayBlackJack" Collapsed="true">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>IPlayBlackJack.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Casino.IBlackJack">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAACAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IBlackJack.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Casino.Gender" Collapsed="true">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Gender.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Casino.ChangeMoneyEvent">
+    <Position X="9" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChangeMoneyEvent.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
