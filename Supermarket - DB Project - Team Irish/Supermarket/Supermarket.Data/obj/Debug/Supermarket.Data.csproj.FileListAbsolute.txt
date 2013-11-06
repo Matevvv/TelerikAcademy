@@ -1,0 +1,10 @@
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.dll.config
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.dll
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Models.dll
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Data\bin\Debug\Supermarket.Models.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Data\bin\Debug\EntityFramework.xml
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Data\obj\Debug\Supermarket.Data.pdb

@@ -1,0 +1,5 @@
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Models\bin\Debug\Supermarket.Models.dll
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Models\bin\Debug\Supermarket.Models.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Models\obj\Debug\Supermarket.Models.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Models\obj\Debug\Supermarket.Models.dll
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Models\obj\Debug\Supermarket.Models.pdb

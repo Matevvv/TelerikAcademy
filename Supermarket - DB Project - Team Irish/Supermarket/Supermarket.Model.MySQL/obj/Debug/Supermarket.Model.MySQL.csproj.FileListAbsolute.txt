@@ -1,0 +1,8 @@
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Model.MySQL\bin\Debug\Supermarket.Model.MySQL.dll.config
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Model.MySQL\bin\Debug\Supermarket.Model.MySQL.dll
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Model.MySQL\bin\Debug\Supermarket.Model.MySQL.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Model.MySQL\bin\Debug\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Model.MySQL\bin\Debug\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Model.MySQL\obj\Debug\Supermarket.Model.MySQL.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Model.MySQL\obj\Debug\Supermarket.Model.MySQL.dll
+C:\Users\Boris\Desktop\Telerik\Telerik Academy\Supermarket - DB Project - Team Irish\Supermarket\Supermarket.Model.MySQL\obj\Debug\Supermarket.Model.MySQL.pdb

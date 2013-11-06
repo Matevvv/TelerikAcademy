@@ -1,0 +1,48 @@
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Repositories.dll.config
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Repositories.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Repositories.pdb
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Data.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Models.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Data.pdb
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Models.pdb
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\obj\Debug\CrowdSourcedNews.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\obj\Debug\CrowdSourcedNews.Repositories.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\obj\Debug\CrowdSourcedNews.Repositories.pdb
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Repositories.dll.config
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Repositories.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Repositories.pdb
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Data.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Models.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Data.pdb
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Models.pdb
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\obj\Debug\CrowdSourcedNews.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\obj\Debug\CrowdSourcedNews.Repositories.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\obj\Debug\CrowdSourcedNews.Repositories.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Repositories.dll.config
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Repositories.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Repositories.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Data.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Models.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Data.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Models.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\obj\Debug\CrowdSourcedNews.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\obj\Debug\CrowdSourcedNews.Repositories.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\obj\Debug\CrowdSourcedNews.Repositories.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Repositories.dll.config
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Repositories.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Repositories.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Data.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Models.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\EntityFramework.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Data.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\CrowdSourcedNews.Models.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\bin\Debug\EntityFramework.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\obj\Debug\CrowdSourcedNews.Repositories.csprojResolveAssemblyReference.cache
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\obj\Debug\CrowdSourcedNews.Repositories.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Repositories\obj\Debug\CrowdSourcedNews.Repositories.pdb

@@ -1,0 +1,18 @@
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\bin\Debug\CrowdSourcedNews.DataTransferObjects.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\bin\Debug\CrowdSourcedNews.DataTransferObjects.pdb
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\obj\Debug\CrowdSourcedNews.DataTransferObjects.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\obj\Debug\CrowdSourcedNews.DataTransferObjects.pdb
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\bin\Debug\CrowdSourcedNews.DataTransferObjects.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\bin\Debug\CrowdSourcedNews.DataTransferObjects.pdb
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\obj\Debug\CrowdSourcedNews.DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\obj\Debug\CrowdSourcedNews.DataTransferObjects.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\obj\Debug\CrowdSourcedNews.DataTransferObjects.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\bin\Debug\CrowdSourcedNews.DataTransferObjects.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\bin\Debug\CrowdSourcedNews.DataTransferObjects.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\obj\Debug\CrowdSourcedNews.DataTransferObjects.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\obj\Debug\CrowdSourcedNews.DataTransferObjects.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\bin\Debug\CrowdSourcedNews.DataTransferObjects.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\bin\Debug\CrowdSourcedNews.DataTransferObjects.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\obj\Debug\CrowdSourcedNews.DataTransferObjects.csprojResolveAssemblyReference.cache
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\obj\Debug\CrowdSourcedNews.DataTransferObjects.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.DataTransferObjects\obj\Debug\CrowdSourcedNews.DataTransferObjects.pdb

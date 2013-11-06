@@ -1,0 +1,347 @@
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Services.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Services.pdb
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Antlr3.Runtime.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\EntityFramework.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.Edm.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.OData.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Newtonsoft.Json.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Spatial.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Helpers.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.OData.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.Tracing.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Mvc.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Optimization.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Providers.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Razor.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\WebGrease.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\EntityFramework.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Newtonsoft.Json.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Helpers.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Mvc.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Razor.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.Tracing.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.OData.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.Edm.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.OData.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Spatial.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\de\System.Spatial.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\es\System.Spatial.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\fr\System.Spatial.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\it\System.Spatial.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ja\System.Spatial.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ko\System.Spatial.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ru\System.Spatial.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\obj\Debug\CrowdSourcedNews.Services.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\obj\Debug\CrowdSourcedNews.Services.pdb
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Services.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Services.pdb
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Antlr3.Runtime.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\EntityFramework.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.Edm.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.OData.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Newtonsoft.Json.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Spatial.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Helpers.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.OData.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.Tracing.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Mvc.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Optimization.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Providers.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Razor.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\WebGrease.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\EntityFramework.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Newtonsoft.Json.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Helpers.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Mvc.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Razor.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.Tracing.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.OData.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.Edm.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.OData.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Spatial.xml
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\de\System.Spatial.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\es\System.Spatial.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\fr\System.Spatial.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\it\System.Spatial.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ja\System.Spatial.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ko\System.Spatial.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ru\System.Spatial.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\obj\Debug\CrowdSourcedNews.Services.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\obj\Debug\CrowdSourcedNews.Services.dll
+C:\Users\Hristo\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\obj\Debug\CrowdSourcedNews.Services.pdb
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\obj\Debug\CrowdSourcedNews.Services.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Data.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.DataTransferObjects.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Models.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Repositories.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.DataTransferObjects.pdb
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Data.pdb
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Models.pdb
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Repositories.pdb
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Mappers.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Mappers.pdb
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Rest.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Core.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Dropbox.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Rest.pdb
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Rest.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Core.pdb
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Core.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Dropbox.pdb
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Dropbox.xml
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Services.dll.config
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Common.Logging.dll
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Common.Logging.pdb
+C:\Users\Vladislav\Documents\GitHub\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Common.Logging.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Services.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Services.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Antlr3.Runtime.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Common.Logging.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Data.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.DataTransferObjects.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Mappers.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Models.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Repositories.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\EntityFramework.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.Edm.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.OData.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Newtonsoft.Json.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Rest.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Core.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Dropbox.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Spatial.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Helpers.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.OData.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.Tracing.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Mvc.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Optimization.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Providers.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Razor.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\WebGrease.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.DataTransferObjects.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Data.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Mappers.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Models.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Repositories.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Common.Logging.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Common.Logging.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Rest.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Rest.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Core.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Core.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Dropbox.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Dropbox.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\EntityFramework.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Newtonsoft.Json.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Helpers.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Mvc.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Razor.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.Tracing.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.OData.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.Edm.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.OData.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Spatial.xml
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\de\System.Spatial.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\es\System.Spatial.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\fr\System.Spatial.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\it\System.Spatial.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ja\System.Spatial.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ko\System.Spatial.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ru\System.Spatial.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\obj\Debug\CrowdSourcedNews.Services.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\obj\Debug\CrowdSourcedNews.Services.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\obj\Debug\CrowdSourcedNews.Services.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Services.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Services.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Antlr3.Runtime.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Common.Logging.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Data.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.DataTransferObjects.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Mappers.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Models.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Repositories.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\EntityFramework.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.Edm.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.OData.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Web.Infrastructure.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Newtonsoft.Json.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Rest.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Core.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Dropbox.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Net.Http.Formatting.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Spatial.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Helpers.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.OData.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.Tracing.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.WebHost.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Mvc.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Optimization.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Providers.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Razor.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Deployment.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Razor.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\WebGrease.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.DataTransferObjects.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Data.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Mappers.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Models.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\CrowdSourcedNews.Repositories.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Common.Logging.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Common.Logging.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Rest.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Rest.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Core.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Core.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Dropbox.pdb
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Spring.Social.Dropbox.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\EntityFramework.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Newtonsoft.Json.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Net.Http.Formatting.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Helpers.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.WebHost.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Mvc.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Razor.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Deployment.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.WebPages.Razor.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.Tracing.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Web.Http.OData.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.Edm.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\Microsoft.Data.OData.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\System.Spatial.xml
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\de\Microsoft.Data.OData.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\es\Microsoft.Data.OData.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\it\Microsoft.Data.OData.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\de\System.Spatial.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\es\System.Spatial.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\fr\System.Spatial.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\it\System.Spatial.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ja\System.Spatial.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ko\System.Spatial.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\ru\System.Spatial.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hans\System.Spatial.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\bin\zh-Hant\System.Spatial.resources.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\obj\Debug\CrowdSourcedNews.Services.csprojResolveAssemblyReference.cache
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\obj\Debug\CrowdSourcedNews.Services.dll
+D:\Boris\Work\Telerik\Telerik - Web\CryptoChat\MegasXLR\CrowdSourcedNews-MegasXLR\CrowdSourcedNews.Services\obj\Debug\CrowdSourcedNews.Services.pdb
