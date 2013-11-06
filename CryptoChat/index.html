@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Crypto Chat</title>
+    <link type="text/css" rel="stylesheet" href="styles/style.css"/>
+    <script src="http://crypto-js.googlecode.com/svn/tags/3.0.2/build/rollups/sha1.js"></script>
+    <script src="scripts/gibberish-aes.js"></script>
+    <script src="scripts/base64.js"></script>
+    <script src="scripts/jquery-1.8.2.js"></script>
+    <script src="scripts/jquery.cookie.js"></script>
+    <script src="scripts/functions.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Crypto Chat</h1>
+        <nav id="main-nav">
+            <ul id="main-nav-list"></ul>
+            <ul id ="chat-list"></ul>
+        </nav>
+    </header>
+    <section id="main-content">
+        <form id="main-form" onsubmit="return false;" method="post">
+        </form>
+        <div id="users">
+            <ul id="users-list"></ul>
+        </div>
+        <div id="chat"></div>
+    </section>
+</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\CryptoChat\bin\CryptoChat.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\CryptoChat\bin\CryptoChat.pdb
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\CryptoChat\obj\Debug\CryptoChat.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\CryptoChat\obj\Debug\CryptoChat.dll
+C:\Users\Boris\Desktop\Telerik\Telerik - Web\CryptoChat\CryptoChat\obj\Debug\CryptoChat.pdb
